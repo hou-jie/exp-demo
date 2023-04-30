@@ -1,6 +1,6 @@
 # Category Perception Experiment
 
-    2AFC identification and AX discrimination
+    2AFC identification [EXP01] and AX discrimination [EXP02]
     Language: Chinese
 
 ![](https://img.shields.io/badge/E--Prime-2.0.10-blue)
@@ -9,6 +9,7 @@
 
 see [Master's Thesis](./EXP0/Thesis.pdf)  
 
+    [EXP0]
     Training: Associative Learning Task
     Testing: Four-alternative Forced Choice (4AFC)
     Language: Japanese
