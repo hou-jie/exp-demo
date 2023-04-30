@@ -7,7 +7,7 @@
 
 # Visual Speech Perception Experiment
 
-see [Master's Thesis](./Thesis.pdf)  
+see [Master's Thesis](./EXP0/Thesis.pdf)  
 
     Training: Associative Learning Task
     Testing: Four-alternative Forced Choice (4AFC)
