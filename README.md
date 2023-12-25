@@ -7,7 +7,7 @@
 
 # Visual Speech Perception Experiment
 
-see [Master's Thesis](document/Thesis.pdf)  
+see [Master's Thesis](https://github.com/hou-jie/document/blob/c04cacbd3c0f93c010498b4c3daf14433c317ffa/Thesis.pdf)  
 
     [EXP0]
     Training: Associative Learning Task
