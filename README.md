@@ -7,7 +7,7 @@
 
 # Visual Speech Perception Experiment
 
-see [Master's Thesis](./EXP0/Thesis.pdf)  
+see [Master's Thesis](./document/Thesis.pdf)  
 
     [EXP0]
     Training: Associative Learning Task
